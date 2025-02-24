@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="80px" src="https://github.com/rayaneacacio/Zer01_Modas/assets/104095370/c3f7aebe-818e-4dac-bd1a-8959c6197a04" />  
+ 
 </p>
 <p align="justify">
 
@@ -15,9 +15,7 @@ Além disso, o administrador da loja (user adm) tem a capacidade de editar o cat
 
 <h2 align="center"> Video Institucional </h2>
 
-<div align="center" >
-
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/52H0zsvk57Y?si=IT4uRmKBsR1DJ8vA)
+<div align="
   
 </div>
 
