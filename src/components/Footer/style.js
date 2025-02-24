@@ -22,8 +22,8 @@ export const Container = styled.footer`
     }
 
     > img { 
-      width: 7rem;
-      height: 4rem;
+      width: 6rem;
+      height: 3rem;
     }
 
     > :last-child {
